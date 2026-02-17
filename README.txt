@@ -2,15 +2,6 @@
                     FOOD MANAGEMENT SYSTEM - README
 ================================================================================
 
-TEAM MEMBERS:
--------------
-Shail Patel (sapate23@ncsu.edu)
-Yash Chaudhary (ychaudh@ncsu.edu)
-Harsh Chaudhari (hchaudh3@ncsu.edu)
-Aryan Shah (aashah9@ncsu.edu)
-
-For any questions or issues, please contact us at our NCSU email addresses.
-
 ================================================================================
                         PROJECT SETUP INSTRUCTIONS
 ================================================================================
@@ -192,4 +183,5 @@ For additional support or questions, please contact us at our NCSU email address
 Thank you for reviewing our project!
 
 ================================================================================
+
 
